@@ -11,6 +11,9 @@ be *mined* (analyzed and organized to be searchable, presented, etc).
 - List of awarded teams for MURI project from DOD
   https://www.cto.mil/2020-muri/
   - [ ] Mined?
+- Open letter to abolish use of DNN for criminality prediction
+  https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16
+  - [ ] Mined?
 
 # General Sources
 - https://usaspending.gov is useful for searching for military contracts in general:
