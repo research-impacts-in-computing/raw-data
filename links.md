@@ -8,6 +8,9 @@ be *mined* (analyzed and organized to be searchable, presented, etc).
 - ICE contract at Northeastern:
   https://www.usaspending.gov/#/award/23830676
   - [ ] Mined?
+- List of awarded teams for MURI project from DOD
+  https://www.cto.mil/2020-muri/
+  - [ ] Mined?
 
 # General Sources
 - https://usaspending.gov is useful for searching for military contracts in general:
